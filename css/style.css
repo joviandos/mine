@@ -1,0 +1,30 @@
+/****************tag selector*******/
+h1 {
+  color: red;
+  font-size: 100px;
+}
+
+img:hover {
+  background-color: gold;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;}
+
+p{font-size: 30px;line-height: 2}
+/****************class selector*******/
+.mine2 {
+  background-color: green;
+}
+
+.mine3 {
+  background-color: red;
+}
+.mine4{background-color: blue}
+.title {
+  color: brown;
+}
+
+
+/****************id selector*******/
